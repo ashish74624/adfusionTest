@@ -18,7 +18,7 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
-      <iframe src="http://localhost:9000/adserve?zone_id=18&type=iframe" width="728" height="90"></iframe>
+      <iframe src="http://localhost:9000/adserve?zone_id=19&type=iframe" width="300" height="250" ></iframe>
     </>
   )
 }
